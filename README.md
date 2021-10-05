@@ -1,4 +1,3 @@
-## Pontus Espe - Fullstack
 **Working on:**
 - AWS Lambda
 - AWS API Gateway
