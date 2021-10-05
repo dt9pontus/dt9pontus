@@ -1,5 +1,5 @@
 ## Pontus Espe - Fullstack
-**Working on:**
+**Working with:**
 - AWS Lambda
 - DynamoDB
 - AWS API Gateway
